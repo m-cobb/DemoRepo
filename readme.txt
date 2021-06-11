@@ -1,1 +1,1 @@
-This is a test.  Initiate self destruct.  Oh no.
+This is a test.  Initiate self destruct.
