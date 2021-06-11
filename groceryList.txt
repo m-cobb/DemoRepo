@@ -1,2 +1,4 @@
+bacon
 milk
 eggs
+butter
